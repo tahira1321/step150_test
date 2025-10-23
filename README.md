@@ -10,6 +10,7 @@ RareTECH：STEP150のハッカソン事前テスト「➀Pythonの課題」用�
 
 ### 課題提出用動画
 ※動画ファイルが大きくなったため複数に分割しています
+
 Part1：ファイル作成と1問目
 https://github.com/user-attachments/assets/30a6225e-b635-4fc3-ab60-d3d4c7fd7fe4
 
