@@ -9,5 +9,4 @@ RareTECH：STEP150のハッカソン事前テスト「➀Pythonの課題」用�
 6. example.pyをリポジトリにコミットし、pushしてください。
 
 ### 課題提出用動画
-https://github.com/user-attachments/assets/34dc17a0-9cc3-426e-9f44-d88e8c033f86
 
